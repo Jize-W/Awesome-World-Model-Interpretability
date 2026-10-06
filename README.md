@@ -8,6 +8,7 @@ A curated list of papers on **world model interpretability**, **Joint-Embedding 
 Contributions and corrections are welcome through issues and pull requests.
 
 - [Awesome World Model Interpretability](#awesome-world-model-interpretability)
+  - [Category Overview](#category-overview)
   - [General XAI Toolbox](#general-xai-toolbox)
   - [Latent Space World Models](#latent-space-world-models)
     - [General Models and Predictive Architectures](#general-models-and-predictive-architectures)
@@ -24,6 +25,15 @@ Contributions and corrections are welcome through issues and pull requests.
     - [World Models for Explaining Agents](#world-models-for-explaining-agents)
     - [Transferable Methods and Behavioral Evaluation](#transferable-methods-and-behavioral-evaluation)
   - [Interpreting Learned World Models](#interpreting-learned-world-models)
+
+## Category Overview
+
+| Category | What It Covers | Relationship to World Model Interpretability |
+| :--- | :--- | :--- |
+| **General XAI Toolbox** | Attribution, concepts, probes, sparse features, circuits, causal interventions, and steering. | **Methodological foundations.** Provides tools that can be adapted to world models; their effectiveness for latent predictive dynamics requires validation. |
+| **Latent Space World Models** | General predictive architectures and domain-specific JEPA applications. | **Models to interpret.** Defines the model families and application settings that motivate interpretation; downstream performance alone does not explain internal mechanisms. |
+| **Related Work in XAI Involving World Models** | Explicitly structured model design, emergent world representations in Transformers and LLMs, and world models used to explain agents. | **Weakly related / indirect relevance.** Primarily studies structured model design, emergent world representations, or agent explanations, rather than directly interpreting the internal predictive mechanisms of learned world models, especially JEPAs. Provides contextual references and potentially transferable ideas. |
+| **Interpreting Learned World Models** | Analyses, infrastructure, and interventions targeting the internal representations and mechanisms of learned world models. | **Direct analysis and supporting tools.** Includes JEPA representation studies, interpretability infrastructure, and non-JEPA methods with potential for transfer to JEPAs. |
 
 ## General XAI Toolbox
 
