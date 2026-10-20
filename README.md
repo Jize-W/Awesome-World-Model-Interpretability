@@ -9,6 +9,8 @@ A curated list of papers on **world model interpretability**, **Joint-Embedding 
 
 Contributions and corrections are welcome through issues and pull requests.
 
+![World model interpretability timeline](assets/timeline.jpg)
+
 - [Awesome World Model Interpretability](#awesome-world-model-interpretability)
   - [Category Overview](#category-overview)
   - [General XAI Toolbox](#general-xai-toolbox)
