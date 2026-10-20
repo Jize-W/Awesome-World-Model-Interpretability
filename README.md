@@ -5,7 +5,7 @@
 
 A curated list of papers on **world model interpretability**, **Joint-Embedding Predictive Architectures (JEPAs)**, and related explainable AI methods.
 
-> 📢 We have released our perspective paper, [**World Model Interpretability: From Decoding Representations to Understanding Latent Worlds**](https://arxiv.org/abs/2610.25296). We argue that interpreting JEPA-based world models requires moving beyond decoding what representations encode to understanding how latent variables interact, evolve, and causally drive prediction, and propose a four-stage research agenda: **Ground → Structure → Verify → Act**. This repository collects related work supporting this agenda.
+> 📢 We have released our perspective paper, [**World Model Interpretability: From Decoding Representations to Understanding Latent Worlds**](https://arxiv.org/abs/2610.25296). This Perspective aims to establish latent-world understanding as a central goal for interpreting predictive world models. We note that decodability is not understanding: accessible information does not reveal how it is organized, evolves, or causally supports prediction. Building on this observation, we envision the Ground–Structure–Verify–Act blueprint as a path toward this goal, and as a framework for shaping future research on latent-world interpretability. We call for future interpretability efforts to move beyond isolated representation-level analyses toward systematically understanding, validating, and acting on the internal worlds learned by predictive models. This repository collects related work supporting this agenda.
 
 Contributions and corrections are welcome through issues and pull requests.
 
